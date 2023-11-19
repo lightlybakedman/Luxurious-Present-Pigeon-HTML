@@ -9,9 +9,9 @@
   background-image: linear-gradient(331deg, rgba(165,152,234,1) 0%, rgba(50,11,102,1) 100%);
 }
 .home-container1 {
-  top: 156px;
+  top: -16px;
   flex: 0 0 auto;
-  left: 93px;
+  left: 123px;
   width: auto;
   height: auto;
   display: flex;
